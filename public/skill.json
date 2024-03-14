@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+      "name": "Figma",
+      "progress": 95
+    },
+    {
+        "id": 2,
+      "name": "Sketch",
+      "progress": 80
+    },
+    {
+        "id": 3,
+      "name": "Xd",
+      "progress": 85
+    },
+    {
+        "id": 4,
+      "name": "Tailwind CSS",
+      "progress": 99
+    },
+    {
+        "id": 5,
+      "name": "React",
+      "progress": 86
+    },
+    {
+        "id": 6,
+      "name": "JavaScript",
+      "progress": 91
+    }
+  ]
+  
