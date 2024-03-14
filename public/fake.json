@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "The Secret Garden",
+      "description": "A timeless classic about a young girl who discovers a hidden, magical garden.",
+      "cover_img": "https://i.ibb.co/QftCHF5/igor-miske-JVSgc-V8-vb4-unsplash.jpg"
+
+    },
+    {
+      "id": 2,
+      "title": "The Galactic Adventures of Zorblax",
+      "description": "Join Zorblax, an interstellar adventurer, as he explores the cosmos and encounters strange beings.",
+      "cover_img": "https://i.ibb.co/JFGdR5R/ilya-pavlov-Oqtaf-YT5k-Tw-unsplash.jpg",
+      "recent": true
+    },
+    {
+      "id": 3,
+      "title": "Recipe Book of Culinary Delights",
+      "description": "Discover a world of mouthwatering recipes from around the globe, perfect for aspiring chefs.",
+      "cover_img": "https://i.ibb.co/wJZy1qV/carlos-muza-hpj-Sk-U2-UYSU-unsplash.jpg",
+      "recent": true
+    },
+    {
+      "id": 4,
+      "title": "Mystery at Moonlight Manor",
+      "description": "Unravel the secrets of Moonlight Manor in this thrilling detective novel set in a secluded mansion.",
+      "cover_img": "https://i.ibb.co/W3qtLyW/ben-kolde-bs2-Ba7t69m-M-unsplash.jpg"
+    }
+  ]
+  
