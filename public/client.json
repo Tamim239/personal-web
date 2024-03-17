@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Blue Widget",
+    "description": "Powerful tool for all your DIY projects.",
+    "image": "https://i.ibb.co/0rYrK88/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+    "company_name": "Tech Innovations Inc."
+  },
+  {
+    "id": 2,
+    "name": "SuperGizmo X2000",
+    "description": "The ultimate gadget for tech enthusiasts!",
+    "image": "https://i.ibb.co/B4C0CTS/jake-nackos-IF9-TK5-Uy-KI-unsplash.jpg",
+    "company_name": "FutureTech Enterprises"
+  },
+  {
+    "id": 3,
+    "name": "MegaTool Deluxe",
+    "description": "Powerful tool for all your DIY projects.",
+    "image": "https://i.ibb.co/pfVn44V/michael-austin-jg-SAuq-Mm-JUE-unsplash.jpg",
+    "company_name": "Tools4U Corp."
+  },
+  {
+    "id": 4,
+    "name": "EcoFriendly Cleaner",
+    "description": "Environmentally safe cleaner for your home.",
+    "image": "https://i.ibb.co/mBY6Xvs/mohammad-khaksarmadani-4-FDs-Nc-CR8i-Q-unsplash.jpg",
+    "company_name": "GreenTech Solutions"
+  }
+]

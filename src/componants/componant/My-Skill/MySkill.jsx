@@ -19,7 +19,7 @@ export default function MySkill() {
           project that inspires you and you customers.
         </p>
       </div>
-      <div className="flex items-center justify-between gap-5 w-4/5 mx-auto">
+      <div className="flex items-center justify-between gap-5 w-4/5 mx-auto my-5">
         {
             services.map(data => <Skill key={data.id} service={data}></Skill>)
         }

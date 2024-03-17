@@ -1,31 +1,37 @@
 [
     {
         "id": 1,
+        "image": "https://i.ibb.co/DLp7QF8/figma.png",
       "name": "Figma",
       "progress": 95
     },
     {
-        "id": 2,
+      "id": 2,
+      "image": "https://i.ibb.co/qWVm6qV/sketch.png",
       "name": "Sketch",
       "progress": 80
     },
     {
         "id": 3,
-      "name": "Xd",
+        "image": "https://i.ibb.co/RhmKN5t/photoshop.png",
+      "name": "PSD",
       "progress": 85
     },
     {
         "id": 4,
+        "image": "https://i.ibb.co/M8gddSb/icons8-tailwind-css-48.png",
       "name": "Tailwind CSS",
       "progress": 99
     },
     {
         "id": 5,
+        "image": "https://i.ibb.co/QnM7N6g/science.png",
       "name": "React",
       "progress": 86
     },
     {
         "id": 6,
+        "image": "https://i.ibb.co/Q6MRF9R/icons8-javascript-48.png",
       "name": "JavaScript",
       "progress": 91
     }

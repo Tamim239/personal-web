@@ -6,6 +6,8 @@ import { RecentWork } from "./componants/componant/RecentWork/Recent";
 import { Exprience } from "./componants/componant/MY-Exprience/Exprience";
 import { Education } from "./componants/componant/My-Education/Education";
 import MySkill from "./componants/componant/My-Skill/MySkill";
+import { MyClient } from "./componants/componant/MyClients/MyClient";
+import { ClientReview } from "./componants/componant/MyClients/ClientReview";
 
 
 function App() {
@@ -21,8 +23,10 @@ function App() {
       <Education></Education>
      </div>
       <MySkill></MySkill>
-
-
+      <div className="flex mt-20">
+        <MyClient></MyClient>
+        <ClientReview></ClientReview>
+      </div>
     </div>
   );
 }
